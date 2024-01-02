@@ -15,7 +15,7 @@ Student # Python
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,html5,css3,blender" />
+        <img src="https://skillicons.dev/icons?i=python,html,css,blender" />
     </a>
 </p>
 
