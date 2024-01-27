@@ -6,6 +6,8 @@ Student # Python
 
 * 🌍  I'm based in Maharashtra/India
 * ✉️  You can contact me at [sohamtilekar233@gmail.com](mailto:sohamtilekar233@gmail.com)
+or
+start discussion or ask question on repo [SohamTilekar](http://github.com/SohamTilekar/SohamTilekar)
 * 🚀  I'm currently working on [VidioPy](http://github.com/SohamTilekar/vidiopy)
 * 🧠  I'm learning C++, github, Linux, ETC.
 * 🤝  I'm open to collaborating on Any Python Project.
