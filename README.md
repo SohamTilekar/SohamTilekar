@@ -24,6 +24,12 @@ start discussion or ask question on repo [SohamTilekar](http://github.com/SohamT
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
     </a>
+    <a href="https://cplusplus.com/">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://skillicons.dev/icons?i=c" alt="c"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
     </a>
