@@ -1,95 +1,128 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soham Tilekar
-==================================================================================================================================
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SohamTilekar&color=red&base=3425&abbreviated=true" alt="profile views" /> </p>
-
-Student # Python
-----------------
-
-* 🌍  I'm based in Maharashtra/India
-* ✉️  You can contact me at [sohamtilekar233@gmail.com](mailto:sohamtilekar233@gmail.com)
-or
-start discussion or ask question on repo [SohamTilekar](http://github.com/SohamTilekar/SohamTilekar)
-* 🚀  I'm currently working on [VidioPy](http://github.com/SohamTilekar/vidiopy)
-* 🧠  I'm learning C++, github, Linux, ETC.
-* 🤝  I'm open to collaborating on Any Python Project.
-
-### Skills
-
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
+  Hi, I'm Soham Tilekar
+</h1>
 
 <p align="center">
-    <!-- Programming Languages -->
-    <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
-    </a>
-    <a href="https://cplusplus.com/">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://skillicons.dev/icons?i=c" alt="c"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-    </a>
-    <a href="https://www.w3.org/Style/CSS">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-    </a>
-    <!-- 3D Modeling and Graphics -->
-    <a href="https://www.blender.org/">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender"/>
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html">
-        <img src="https://skillicons.dev/icons?i=ps" alt="PhotoShop"/>
-    </a>
-    <!-- Web Development -->
-    <a href="https://fastapi.tiangolo.com/">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-    </a>
-    <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-    </a>
-    <!-- Operating System -->
-    <a href="https://www.linux.org/">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
-    </a>
-    <!-- Markup and Documentation -->
-    <a href="https://www.markdownguide.org/">
-        <img src="https://skillicons.dev/icons?i=md" alt="MD"/>
-    </a.
+  <img src="https://komarev.com/ghpvc/?username=SohamTilekar&color=blueviolet&base=3425&abbreviated=true" alt="profile views"/>
 </p>
+
 <p align="center">
-    <!-- Shell and Scripting -->
-    <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"/>
-    </a.
-    <!-- Development Environment -->
-    <a href="https://replit.com/">
-        <img src="https://skillicons.dev/icons?i=replit" alt="Replit"/>
-    </a>
-    <a href="https://stackoverflow.com/">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-    </a>
+  <b>Self-Taught Developer • Systems Programmer • Compiler Engineer</b>
 </p>
 
+<p align="center">
+  🎓 FY B.Tech CSE @ Pimpri Chinchwad University | 📍 Maharashtra, India<br/>
+  💡 Curious mind, coding since 15 | Building systems from scratch
+</p>
 
+---
 
+### 🚀 Featured Projects
 
-### Socials
+<table>
+<tr>
+<td width="50%">
 
-<p align="left"> <a href="https://www.github.com/SohamTilekar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/SohamTilekar233" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22136703/soham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SohamTilekar233" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/SohamTilekar"
-  width="600"
-  height="300"
-/>
-</a>
+#### 🧬 [GigglyCode](https://github.com/SohamTilekar/GigglyCode)
+A compiled programming language with:
+- Generics & Type Inference
+- Struct Methods & Ownership Model
+- LLVM Backend Compilation
+- Custom Standard Library
+
+`C++` `LLVM` `Compiler Design`
+
+</td>
+<td width="50%">
+
+#### 🤖 [Friday v2](https://github.com/SohamTilekar/fridayv2)
+Personal AI Assistant featuring:
+- Deep Research & Web Fetching
+- Computer Access & File Management
+- Scheduling & Reminders
+- Image Generation (Imagen)
+
+`Python` `Flask` `AI` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌐 [Berus Browser](https://github.com/SohamTilekar/berus)
+A web browser built from scratch in Rust:
+- Custom HTML/CSS Parser
+- DOM Tree Rendering
+- Built with egui/eframe
+- Table & Media Support
+
+`Rust` `HTML` `CSS` `GUI`
+
+</td>
+<td width="50%">
+
+#### 🖥️ [TilekarOS](https://github.com/SohamTilekar/TilekarOS)
+A hobby operating system featuring:
+- Bootloader & Kernel Development
+- Memory Management
+- Low-level Systems Programming
+
+`C` `Assembly` `OS Dev`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+#### 🎬 [VidioPy](https://github.com/SohamTilekar/vidiopy) ⭐ 11
+Python video editing library (MoviePy alternative) • Programmatic Video Editing • Text Overlays & Compositing • FFmpeg Integration • [Documentation](https://sohamtilekar.github.io/vidiopy/)
+
+`Python` `FFmpeg` `Video Processing`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></a>
+  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://llvm.org/"><img src="https://raw.githubusercontent.com/SohamTilekar/SohamTilekar/refs/heads/main/llvm.png" width=48 alt="LLVM"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamTilekar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamTilekar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soham-tilekar/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.github.com/SohamTilekar"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.x.com/SohamTilekar233"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
+  <a href="https://www.stackoverflow.com/users/22136703/soham"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/></a>
+  <a href="mailto:sohamtilekar233@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <b>💬 Open to collaborations on compilers, AI, systems programming, and open source projects!</b>
+</p>
