@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Self-Taught Developer • Systems Programmer • Compiler Engineer</b>
+  <b>Self-Taught Developer • Systems Programmer • Compiler Engineer• OSDev • CPU(Hardware player) • Web • Low-level tooling</b>
 </p>
 
 <p align="center">
