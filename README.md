@@ -13,7 +13,7 @@
 
 <p align="center">
   🎓 FY B.Tech CSE @ Pimpri Chinchwad University | 📍 Maharashtra, India<br/>
-  💡 Curious mind, coding since 15 | Building systems from scratch
+  💡 Curious mind, grinding since 15 | Building systems from scratch
 </p>
 
 ---
