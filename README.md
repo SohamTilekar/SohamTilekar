@@ -43,7 +43,7 @@ Personal AI Assistant featuring:
 - Scheduling & Reminders
 - Image Generation (Imagen)
 
-`Python` `Flask` `AI` `LLM`
+`Python` `Flask` `HTML` `CSS` `JS` `LLM`
 
 </td>
 </tr>
